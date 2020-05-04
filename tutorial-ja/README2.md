@@ -9,7 +9,8 @@ Blueqat日本語チュートリアル
 
 ステップ１：量子計算の基礎
 --------------------
-|:---|:---|:---|
+|Index|Title|タイトル|Link|リンク|
+|:---|:---|:---|:---|:---|
 |001.|basic 1qubit operation|１量子ビットの基本の操作を覚える|<a href="tutorial/001_basic_circuit.ipynb">en</a>|<a href="001_basic_one_qubit.ipynb">ja</a>|
 |002.|basic 2qubits operations|２量子ビットの基本の操作を覚える|<a href="tutorial/002_basic_two_qubits.ipynb">en</a>|<a href="002_basic_two_qubits.ipynb">ja</a>|
 
